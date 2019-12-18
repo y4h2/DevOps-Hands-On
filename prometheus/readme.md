@@ -7,5 +7,10 @@ $ cd node_exporter-0.16.0.linux-amd64
 $ ./node_exporter
 ```
 
-Grafana
+# Grafana
 username/password : admin/admin
+port: 3000
+
+
+# Reference
+https://www.aneasystone.com/archives/2018/11/prometheus-in-action.html
